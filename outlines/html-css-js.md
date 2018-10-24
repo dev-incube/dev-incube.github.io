@@ -14,7 +14,6 @@
 
 ### Week 2
 
-- Layout
 - Typography
 - Image
 - List
