@@ -4,7 +4,8 @@ see course list below
 
 - HTML, CSS, and JavaScript
 - Node.js
-- React / React Native
+- React
+- React Native
 
 ## HTML, CSS, and JavaScript
 
@@ -56,4 +57,16 @@ You can see [full outline](outlines/html-css-js.md)
   - Test
   - Real-time app with Socket.io
 
-## React / React Native
+## React
+
+- Setup
+  - Install [Node.js and npm](https://nodejs.org/en/download/package-manager/)
+  - Install [yarn](https://yarnpkg.com/lang/en/)
+  - Install [create-react-app](https://github.com/facebook/create-react-app)
+
+## React Native
+
+- Setup
+  - Install [Node.js and npm](https://nodejs.org/en/download/package-manager/)
+  - Install [yarn](https://yarnpkg.com/lang/en/)
+  - Install [create-react-app](https://github.com/facebook/create-react-app)
