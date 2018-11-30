@@ -64,6 +64,31 @@ You can see [full outline](outlines/html-css-js.md)
   - Install [yarn](https://yarnpkg.com/lang/en/)
   - Install [create-react-app](https://github.com/facebook/create-react-app)
 
+- Introdution
+
+- Basic
+  - JSX
+  - Rendering
+  - Components and Props
+  - State and Lifecycle
+  - Handling Events
+  - Conditional Rendering
+  - List and Keys
+  - Forms
+  - Lifting State Up
+  - Composition and Inheritance
+  - Thinking In React
+
+- Advance
+  - Project Structure
+  - Accessibility
+  - Code Splitting
+  - Forwarding Refs
+  - Fragments
+  - Typechecking With PropTypes
+  - Store Management (Redux or Rematch)
+  - Test
+
 ## React Native
 
 - Setup
