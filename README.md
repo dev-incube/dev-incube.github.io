@@ -64,7 +64,7 @@ You can see [full outline](outlines/html-css-js.md)
   - Install [yarn](https://yarnpkg.com/lang/en/)
   - Install [create-react-app](https://github.com/facebook/create-react-app)
 
-- Introdution
+- Introduction
 
 - Basic
   - JSX
@@ -81,6 +81,7 @@ You can see [full outline](outlines/html-css-js.md)
 
 - Advance
   - Project Structure
+  - Request Rest API
   - Accessibility
   - Code Splitting
   - Forwarding Refs
