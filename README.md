@@ -81,6 +81,7 @@ You can see [full outline](outlines/html-css-js.md)
 
 - Advance
   - Project Structure
+  - React Router
   - Request Rest API
   - Accessibility
   - Code Splitting
@@ -95,4 +96,3 @@ You can see [full outline](outlines/html-css-js.md)
 - Setup
   - Install [Node.js and npm](https://nodejs.org/en/download/package-manager/)
   - Install [yarn](https://yarnpkg.com/lang/en/)
-  - Install [create-react-app](https://github.com/facebook/create-react-app)
