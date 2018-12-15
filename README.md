@@ -96,3 +96,20 @@ You can see [full outline](outlines/html-css-js.md)
 - Setup
   - Install [Node.js and npm](https://nodejs.org/en/download/package-manager/)
   - Install [yarn](https://yarnpkg.com/lang/en/)
+  - Install react-native-cli
+  - Install Native SDK (Adndroid SDK + JDK, Xcode)
+
+- Basic
+  - Review React (Props, State)
+  - Style (Flexbox)
+  - Components and APIs
+  - Handling Text Input
+  - Handling Touches
+  - Using a ScrollView
+  - Using List Views
+
+- Advance
+  - Networking
+  - Platform Specific Code
+  - Navigating Between Screens
+  - Using Other Module
